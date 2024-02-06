@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alav003
-- 👀 I’m interested in learning python and becoming a software engineer. 
-- 🌱 I’m currently learning and mastering python for the purpose of eventually beocming a software engineer after highschool.
-- 💞️ I’m looking to collaborate on any sort of python project
+- 👀 I’m interested in honing my skills and becoming an aspiring Front-End engineer.
+- 🌱 I’m currently learning and mastering Html, CSS and JavaScript.
+- 💞️ I’m looking to collaborate on any sort of Front-End project.
 - 📫 How to reach me alavasssse2006@gmail.com
 
 <!---
